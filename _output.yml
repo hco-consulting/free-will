@@ -9,6 +9,9 @@ bookdown::gitbook:
                 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
         edit: null
         download: ["pdf"]
+        fontsettings:
+            theme: night
+            family: serif
 bookdown::pdf_document2:
     latex_engine: xelatex
     citation_package: natbib
