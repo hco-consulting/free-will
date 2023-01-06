@@ -1,0 +1,272 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  a4paper,
+]{report}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[top=20mm,left=30mm,heightrounded]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Freier Wille als Illusion oder Notwendigkeit},
+  pdfauthor={Emma Erhard, Universität Konstanz; Hamilkar Constantin Oueslati, Universität Konstanz; Naima Steimel, Universität Konstanz},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Freier Wille als Illusion oder Notwendigkeit}
+\author{Emma Erhard, Universität Konstanz \and Hamilkar Constantin Oueslati, Universität Konstanz \and Naima Steimel, Universität Konstanz}
+\date{14.01.2023}
+
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\hypertarget{vorwort}{%
+\chapter*{Vorwort}\label{vorwort}}
+\addcontentsline{toc}{chapter}{Vorwort}
+
+\hypertarget{uxfcber-dieses-webbook}{%
+\section*{Über dieses Webbook}\label{uxfcber-dieses-webbook}}
+\addcontentsline{toc}{section}{Über dieses Webbook}
+
+Dieses Webbook wurde im Rahmen des Seminars ``Von Freiheit und Notwendigkeit'' (WS 2022/2023 - Universität Konstanz) erstellt.
+Es enthält alle Informationen und Materialien, welche die Teilnehmer*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Ttel ``Freier Wille als Illusion oder Notwendigkeit'' benötigen.
+
+Die wichtigsten Ergebnisse etwaiger Diskussionen im Rahmen besagter Sitzung werden ebenfalls in diesem Webbook dokumentiert.
+
+Bei Fragen zu den Inhalten dieses Webboks bzw. der Sitzung zögern Sie bitte nicht die Autor*innen zu kontaktieren.
+
+\hypertarget{die-autorinnen}{%
+\section*{Die Autor*innen}\label{die-autorinnen}}
+\addcontentsline{toc}{section}{Die Autor*innen}
+
+\hypertarget{emma-erhard}{%
+\subsection*{Emma Erhard}\label{emma-erhard}}
+\addcontentsline{toc}{subsection}{Emma Erhard}
+
+Pronomen: sie/ihr (dt.) bzw. she/her (engl.)\\
+Studierender Mensch - Universität Konstanz\\
+Studienfach: Psychologie (M.Sc.)\\
+
+Mail: \href{mailto:emma.erhard@uni-konstanz.de?subject=Freier\%20Wille\%20als\%20Illusion\%20oder\%20Notwendigkeit}{emma.erhard@uni-konstanz.de}
+
+\hypertarget{hamilkar-constantin-oueslati}{%
+\subsection*{Hamilkar Constantin Oueslati}\label{hamilkar-constantin-oueslati}}
+\addcontentsline{toc}{subsection}{Hamilkar Constantin Oueslati}
+
+Pronomen: dey/deren/denen (dt.) bzw. they/their/them (engl.)\\
+Studierender Mensch - Universität Konstanz\\
+Studienfach: Psychologie (M.Sc.)\\
+
+Mail: \href{mailto:hamilkar-constantin.oueslati@uni-konstanz.de?subject=Freier\%20Wille\%20als\%20Illusion\%20oder\%20Notwendigkeit}{hamilkar-constantin.oueslati@uni-konstanz.de}
+
+Web: \url{https://hco-consulting.eu}
+
+\hypertarget{naima-steimel}{%
+\subsection*{Naima Steimel}\label{naima-steimel}}
+\addcontentsline{toc}{subsection}{Naima Steimel}
+
+Pronomen: sie/ihr (dt.) bzw. she/her (engl.)\\
+Studierender Mensch - Universität Konstanz\\
+Studienfach: Psychologie (M.Sc.)\\
+
+Mail: \href{mailto:naima.steimel@uni-konstanz.de?subject=Freier\%20Wille\%20als\%20Illusion\%20oder\%20Notwendigkeit}{naima.steimel@uni-konstanz.de}
+
+\hypertarget{der-dozent-des-seminars}{%
+\section*{Der Dozent des Seminars}\label{der-dozent-des-seminars}}
+\addcontentsline{toc}{section}{Der Dozent des Seminars}
+
+\hypertarget{dr.-daniel-beis}{%
+\subsection*{Dr.~Daniel Beis}\label{dr.-daniel-beis}}
+\addcontentsline{toc}{subsection}{Dr.~Daniel Beis}
+
+Pronomen: er/ihm (dt.) bzw. he/him (engl.)\\
+Wissenschaftlicher Mitarbeiter am Institut für Ernährungswissenschaften\\
+Justus-Liebig-Universität Gießen\\
+
+Mail: \href{mailto:?subject=Seminar\%20Freier\%20Wille\%20als\%20Illusion\%20oder\%20Notwendigkeit\%20-\%20Universität\%20Konstanz}{daniel.beis@ernaehrung.uni-giessen.de}
+
+\hypertarget{einfuxfchrung}{%
+\chapter{Einführung}\label{einfuxfchrung}}
+
+\hypertarget{freier-wille---ja-nein-vielleicht-egal}{%
+\section{Freier Wille? - Ja, Nein, Vielleicht, Egal}\label{freier-wille---ja-nein-vielleicht-egal}}
+
+Im Rahmen dieser Seminarsitzung möchten wir uns mit euch auf kreative Art und Weise mit folgende Fragestellungen auseinandersetzen:
+
+\begin{quote}
+\emph{(1) Existiert der freie Wille wirklich oder ist er schlicht eine Illusion?}
+\end{quote}
+
+\begin{quote}
+\emph{(2) Kann unsere Gesellschaft nur dann funktionieren, wenn der freie Wille existiert?}
+\end{quote}
+
+\begin{quote}
+\emph{(3) Falls der freie Wille nicht existieren sollte, müssen wir an dessen Existenz glauben, um das Funktionieren unserer Gesellschaft sicherstellen zu können?}
+\end{quote}
+
+Die kritische Betrachtung solch abstrakter Fragestellungen ist leider oft alles andere als leicht. Aus diesem Grund wollen wir mit euch die besagten Fragestellungen anhand eines deutlich greifbareren Konzeptes kritisch diskutieren: der \textbf{Schuldfähigkeit}.
+
+\hypertarget{freier-wille-und-schuldfuxe4higkeit}{%
+\section{Freier Wille und Schuldfähigkeit}\label{freier-wille-und-schuldfuxe4higkeit}}
+
+Bevor wir uns an der Beantwortung der obigen Fragen versuchen, lasst uns zuerst eine Antwort auf \textbf{die Frage} finden, \textbf{die immer die erste sein sollte}:
+
+\begin{quote}
+\emph{Wieso ist die Antwort auf diese Frage(n) von Relevanz?}
+\end{quote}
+
+Zur Beantwortung der \textbf{ersten Frage} lasst uns einige \textbf{potentielle} Implikationen von zwei Antwortmöglichkeiten für Frage (1) im Hinblick auf die Schuldfähigkeit einer kriminellen Person betrachten.
+
+\textbf{Der freie Wille existiert.}
+
+\begin{itemize}
+\item
+  Personen sind generell dazu fähig, sich bewusst dafür oder dagegen zu entscheiden ein bestimmtes Verhalten zu zeigen.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Personen sind im rechtlichen Sinne generell als \textbf{schuldfähig} zu betrachten.
+  \end{itemize}
+\item
+  Personen sind \textbf{verantwortlich} für das Verhalten, welches sie bewusst zeigen bzw. nicht zeigen.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Personen \textbf{tragen} die \textbf{Schuld} für ihre kriminellen Handlungen bzw. für das kriminelle Unterlassen bestimmter Handlungen.
+  \end{itemize}
+\end{itemize}
+
+\textbf{Der freie Wille existiert nicht.}
+
+\begin{itemize}
+\item
+  Ob Personen ein bestimmtes Verhalten zeigen oder nicht, hängt \textbf{nicht} von bewussten Entscheidungsprozessen ab.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Personen sind im rechtlichen Sinne generell als \textbf{nicht schuldfähi}g zu betrachten.
+  \end{itemize}
+\end{itemize}
+
+\begin{itemize}
+\item
+  Personen sind \textbf{nicht verantwortlich} für das Verhalten, welches sie zeigen bzw. nicht zeigen.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Personen \textbf{tragen keine Schuld} für ihre kriminellen Handlungen bzw. für das kriminelle Unterlassen bestimmter Handlungen.
+  \end{itemize}
+\end{itemize}
+
+Eine mögliche Antwort auf die \textbf{erste Frage} lautet dementsprechend:
+
+\begin{quote}
+\emph{Die Antworten auf Fragen (1) bis (3) sind von Relevanz, da diese beispielsweise bedeutende Implikationen für die Rechtsprechung in unserer Gesellschaft haben können.}
+\end{quote}
+
+\hypertarget{der-freie-wille-vor-gericht}{%
+\chapter{Der Freie Wille Vor Gericht}\label{der-freie-wille-vor-gericht}}
+
+Die zentralen Fragestellungen wurden definiert. Wir haben uns für ein greifbares und relevantes Konzept entschieden, anhand dessen wir diese diskutieren möchten. Wir sind uns im Klaren über die Relevanz der besagter Fragestellungen.
+
+Wie können wir nun die genannten Fragestellungen anhand des Konzepts der Schuldfähigkeit auf kreative Art und Weise kritisch diskutieren?
+
+Die Antwort lautet. \emph{Mit einem Rollenspiel!}
+
+\begin{quote}
+\textbf{\emph{Die Richter*innen rufen die Anwesenden zur Ordnung. Die Verhandlung beginnt!}}
+\end{quote}
+
+\hypertarget{die-ermordung-einer-ikone}{%
+\section{Die Ermordung einer Ikone}\label{die-ermordung-einer-ikone}}
+
+Im Rahmen einer \textbf{fiktiven Gerichtsverhandlung} soll entschieden werden, ob der \textbf{Angeklagte Daniel B.} (unser Dozent) des \textbf{Mordes} an seinem Kollegen \textbf{Sigmund F.} schuldig ist.
+
+\textbf{Die Beweislage scheint eindeutig.} Alle vorhandenen Beweisstücke, die gerichtsmedizinische Untersuchung sowie die überlieferte Zeugenaussage von Carl Gustav J. lassen auf nur einen möglichen Tathergang schließen:
+
+\begin{quote}
+\emph{Am Morgen des 16.10.2022 nutzte Daniel B. einen Vortex-Manipulator, um zurück in das Jahr 1907 zu reisen. Am späten Abend des 03.11.1907 verschaffte sich Daniel B. sodann Zugang zu der Wohnung des Opfers in der Berggasse 19 in Wien. Laut der Aussage des Zeugen Carl Gustav J. ``stürmte'' Daniel B. in das Studierzimmer des Opfers und unterbrach unter Verwendung ``äußerst grotesker Flüche'' das erste Treffen zwischen dem Opfer und dem Zeugen. Als sich das Opfer auch nach mehrmaligen Aufforderungen von Daniel B. weigerte seine ``irrsinnige'' Sexualtheorie aufzugeben, begann Daniel B. ``wie besessen'' mit einem schweizer Taschenmesser auf das Opfer Sigmund F. einzustechen. Wenig später erlag Sigmund F. seinen Verletzungen.}
+\end{quote}
+
+  \bibliography{refs.bib}
+
+\end{document}
