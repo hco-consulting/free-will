@@ -6,7 +6,16 @@ author:
   - Naima Steimel, Universität Konstanz
 date: "14.01.2023"
 output: bookdown::gitbook
-documentclass: book
+documentclass: report
+toc-title: "Inhaltsverzeichnis"
+toc-depth: 3
+number-sections: false
+colorlinks: true
+papersize: a4
+geometry:
+- top=20mm
+- left=30mm
+- heightrounded
 bibliography: refs.bib
 csl: /Users/constantine/Documents/R System-Wide/apa7ed.csl
 link-citations: true
@@ -14,6 +23,8 @@ github-repo: hco-consulting/free-will
 ---
 
 # Vorwort {.unnumbered}
+
+## Über dieses Webbook {.unnumbered}
 
 Dieses Webbook wurde im Rahmen des Seminars "Von Freiheit und Notwendigkeit" (WS 2022/2023 - Universität Konstanz) erstellt.
 Es enthält alle Informationen und Materialien, welche die Teilnehmer*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Ttel "Freier Wille als Illusion oder Notwendigkeit" benötigen. 
@@ -50,7 +61,7 @@ Studienfach: Psychologie (M.Sc.)\
 
 Mail: [naima.steimel\@uni-konstanz.de](mailto:naima.steimel@uni-konstanz.de?subject=Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit "Mail an Naima Steimel")
 
-## Dozent des Seminars {.unnumbered}
+## Der Dozent des Seminars {.unnumbered}
 
 ### Dr. Daniel Beis {.unnumbered}
 
