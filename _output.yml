@@ -1,0 +1,15 @@
+bookdown::gitbook:
+    config:
+        toc:
+            collapse: subsection
+            scroll_highlight: true
+            before: |
+                <li><a href="./">Freier Wille als Illusion oder Notwendigkeit</a></li>
+            after: |
+                <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        edit: null
+        download: ["pdf"]
+bookdown::pdf_document2:
+    latex_engine: xelatex
+    citation_package: natbib
+    keep_tex: yes
