@@ -64,6 +64,15 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{ngerman}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -74,6 +83,7 @@
 \hypersetup{
   pdftitle={Freier Wille als Illusion oder Notwendigkeit},
   pdfauthor={Emma Erhard, Universität Konstanz; Hamilkar Constantin Oueslati, Universität Konstanz; Naima Steimel, Universität Konstanz},
+  pdflang={de},
   colorlinks=true,
   linkcolor={Maroon},
   filecolor={Maroon},
@@ -266,6 +276,64 @@ Im Rahmen einer \textbf{fiktiven Gerichtsverhandlung} soll entschieden werden, o
 \begin{quote}
 \emph{Am Morgen des 16.10.2022 nutzte Daniel B. einen Vortex-Manipulator, um zurück in das Jahr 1907 zu reisen. Am späten Abend des 03.11.1907 verschaffte sich Daniel B. sodann Zugang zu der Wohnung des Opfers in der Berggasse 19 in Wien. Laut der Aussage des Zeugen Carl Gustav J. ``stürmte'' Daniel B. in das Studierzimmer des Opfers und unterbrach unter Verwendung ``äußerst grotesker Flüche'' das erste Treffen zwischen dem Opfer und dem Zeugen. Als sich das Opfer auch nach mehrmaligen Aufforderungen von Daniel B. weigerte seine ``irrsinnige'' Sexualtheorie aufzugeben, begann Daniel B. ``wie besessen'' mit einem schweizer Taschenmesser auf das Opfer Sigmund F. einzustechen. Wenig später erlag Sigmund F. seinen Verletzungen.}
 \end{quote}
+
+\hypertarget{ein-schuldloser-mord}{%
+\section{Ein Schuldloser Mord?}\label{ein-schuldloser-mord}}
+
+Ausgehend von den dem Gericht vorliegenden Beweismitteln und der Zeugenaussage von Car Gustav J. scheint es außer Frage zu stehen, dass Daniel B. Sigmund F. ermordet hat.
+
+Dies bedeutet jedoch nicht, dass Daniel B. des Mordes an Sigmund F. auch schuldig gesprochen werden kann. Lediglich wenn das Gericht basierend auf den Ausführungen der Staatsanwaltschaft und der Verteidigung zu dem Schluss kommen, dass Daniel B. zum Zeitpunkt des Mordes schuldfähig war, kann ein Schuldspruch erfolgen.
+
+Daher bitten die ehrenwerten Richter*innen E. Erhard, H. C. Oueslati und N. Steimel die Teilnehmer*innen dieses Seminars sich in zwei Gruppen (Staatsanwaltschaft und Verteidigung) aufzuteilen und die Anklage gegen bzw. die Verteidigung von Daniel B. vorzubereiten.
+
+\hypertarget{die-staatsanwaltschaft}{%
+\section{Die Staatsanwaltschaft}\label{die-staatsanwaltschaft}}
+
+Die Staatsanwaltschaft besteht aus den Teilnehmer*innen des Seminars mit den folgenden Initialen: \texttt{A.\ C.}, \texttt{A.\ K.}, \texttt{A.\ W.}, \texttt{A.\ B.}, \texttt{A.\ G.}, \texttt{D.\ M.}, \texttt{D.\ K.}, \texttt{E.\ L.} und \texttt{J.\ H.}
+
+Die Staatsanwaltschaft wird gebeten alle in dem Kapitel \ldots{} zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Anklage gegen Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat \textbf{schuldfähig} war.
+
+Die Teilnehmer*in mit den Initialen \texttt{A.\ G.} wird im Rahmen der Verhandlung die Rolle des*der \textbf{ersten Sachverständigen} übernehmen. In seiner*ihrer Rolle kann und soll \texttt{A.\ G.} sowohl von der Staatsanwaltschaft als auch von der Verteidigung bzgl. des Themenkomplexes ``Freier Wille'' befragt werden.
+
+\hypertarget{die-verteidigung}{%
+\section{Die Verteidigung}\label{die-verteidigung}}
+
+Die Verteidigung besteht aus den Teilnehmer*innen des Seminars mit den folgenden Initialen: \texttt{J.\ M.}, \texttt{K.\ G.}, \texttt{K.\ H.}, \texttt{L.\ H.}, \texttt{L.\ S.}, \texttt{L.\ G.}, \texttt{M.\ P.}, \texttt{M.\ L.}, \texttt{M.\ H.} und \texttt{V.\ B.}
+
+Die Verteidigung wird hingegen gebeten alle in dem Kapitel \ldots{} zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Verteidigung von Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat \textbf{nicht schuldfähig} war.
+
+Die Teilnehmer*in mit den Initialen \texttt{L.\ G.} wird im Rahmen der Verhandlung die Rolle des*der \textbf{zweiten Sachverständigen} übernehmen. In seiner*ihrer Rolle kann und soll \texttt{L.\ G.} sowohl von der Verteidigung als auch von der Staatsanwaltschaft bzgl. des Themenkomplexes ``Freier Wille'' befragt werden.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2603}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3699}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3699}}@{}}
+\caption{Staatsanwaltschaft und Verteidigung im Überblick}\tabularnewline
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Staatsanwaltschaft
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Verteidigung
+\end{minipage} \\
+\midrule()
+\endfirsthead
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Staatsanwaltschaft
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Verteidigung
+\end{minipage} \\
+\midrule()
+\endhead
+\textbf{Mitglieder*innen} & \texttt{A.\ C.}, \texttt{A.\ K.}, \texttt{A.\ W.}, \texttt{A.\ B.}, \texttt{A.\ G.}, \texttt{D.\ M.}, \texttt{D.\ K.}, \texttt{E.\ L.} und \texttt{J.\ H.} & \texttt{J.\ M.}, \texttt{K.\ G.}, \texttt{K.\ H.}, \texttt{L.\ H.}, \texttt{L.\ S.}, \texttt{L.\ G.}, \texttt{M.\ P.}, \texttt{M.\ L.}, \texttt{M.\ H.} und \texttt{V.\ B.} \\
+\textbf{Sachverständige*r} & \texttt{A.\ G.} & \texttt{L.\ G.} \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{der-ablauf-der-verhandlung}{%
+\section{Der Ablauf der Verhandlung}\label{der-ablauf-der-verhandlung}}
 
   \bibliography{refs.bib}
 
