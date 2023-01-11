@@ -14,12 +14,14 @@ pr-ev1
 pr-ev2
 pr-ev3
 pr-ev4
+pr-more
 defence-evidence
 def-ev1
 def-ev2
 def-ev3
 def-ev4
 you-dont-have-free-will-but-dont-worry
+def-more
 results
 pr-plea
 def-plea

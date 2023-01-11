@@ -16,7 +16,7 @@ Die\*der Sachverständige\*r `A. G.` soll im Rahmen der Verhandlung sowohl von e
 
 > „Ich habe mich dieser Frage auf experimentelle Weise genähert. Freien Willenshandlungen geht eine spezifische elektrische Veränderung im Gehirn voraus (das ›Bereitschaftspotentiak‹, BP), das 550 ms vor der Handlung einsetzt. Menschliche Versuchspersonen wurden sich der Handlungsintention 350-400 ms nach Beginn von BP bewußt, aber 200 ms vor der motorischen Handlung. Der Willensprozeß wird daher unbewußt eingeleitet. Aber die Bewußtseinsfunktion kann den Ausgang immer noch steuern; sie kann die Handlung durch ein Veto verbieten. Willensfreiheit ist daher nicht ausgeschlossen. Diese Befunde stellen Beschränkungen für mögliche Ansichten darüber dar, wie der freie Wille funktionieren könnte; er würde eine Willenshandlung nicht einleiten, würde aber den Vollzug der Handlung steuern.‟ (S.268)
 
-## #2 Warum noch debattieren?  {#pr-ev2}
+## #2 Warum noch debattieren? {#pr-ev2}
 
 **Auszug aus dem Aufsatz "Warum noch debattieren? Determinismus als Diskurskiller" von Gerhard Kaiser [-@Kaiser2004]**
 
@@ -49,3 +49,11 @@ Die\*der Sachverständige\*r `A. G.` soll im Rahmen der Verhandlung sowohl von e
 > Blickt der Neurologe ins Feld, so sieht er keinen Igel und keinen Hasen, sondern bestimmte Formen und Farben und Bewegungen, die er, ein igel- und hasengewohnter Abendländer, richtig erkennt. Vielleicht hielt er den Hasen zuerst für ein Kaninchen und ließ sich durch einen Spezialisten, etwa einen Jäger, dankbar korrigieren: *Sehen* läßt sich nicht, was ein Hase und was ein Kaninchen ist. Im Labor sieht er etwas Graues, das sich weich und feucht anfühlt und stumm ist; als wissenschaftlicher Spezialist erkennt er dieses Etwas als Gehirn; mit seinen Apparaten identifiziert er Synapsen und Zellen, immer im Zusammenspiel von Sinnesinformationen und hochspezialisierten Erkenntnisleistungen. Seine Berichte über die Ergebnisse verzerren, aber sie vereinfachen auch die Situation durch die Benutzung der schon genannten Illusion: Er tut so, als könnte er die Zeilen als Zellen und die Vernetzungen als Vernetzungen *sehen* - davon kann zwar die Rede sein, der Sache nach ist diese Redeform jedoch unhaltbar: Zellen und Vernetzungen kann man so wenig sehen wie Telefone und Computer, Stäbe und Sonnen und Monde.‟ (S. 173)
 
 > „Jede mitteilbare wahre oder falsche Erkenntnis setzt sich aus Urteilen zusammen wie z. B. »Alles Wissen, über das ein Gehirn verfügt, residiert in seiner funktionellen Architektur«; ein Urteil ist im einfachsten Fall die Einheitsverknüpfung von Subjekt und Prädikat, wobei diese Verknüpfung notwendig entweder bejahend oder verneinend ist (hier also: » Nicht alles Wissen, [...]« oder »[...] residiert nicht in seiner Architektur«). Die Verneinung vereint Subjekt und Prädikat im Urteil und behauptet zugleich deren Trennung. Die gegen die Vorstellung vom Primat der Materie oder des Gehirns gegenüber dem Geist gerichtete These lautet: In keiner Gehirnzelle und in keiner Synapse hat man und wird man das Äquivalent eines Urteils, besonders keine Verneinung entdecken. Wer je im Gehirn eine Verneinung auffindet, dem verpfände ich alle Synapsen, die an dieser Zeile beteiligt sind (beim Milliardenaufkommen wird das ja zu verkraften sein). Solange eine Urteils- oder Erkenntnisbildung und besonders eine Verneinung nicht entdeckt wurden, läßt sich der Geist nicht auf noch so dynamische und demokratisch vernetzte Prozesse des Gehirns zurückführen. Sie bieten notwendige, aber keine hinreichenden Bedingungen für den Geist, der nein sagen kann und mit seinem ersten Nein ins Dasein sprang.‟ (S. 175)
+
+## Weitere Quellen {#pr-more}
+
+-   Aufsatz „Gründe zählen. Über einige Schwierigkeiten des Bionaturalismus‟ von Lutz Wingert [-@Lutz2004]
+
+-   Aufsatz „Verschaltungen legen uns fest: Wir sollten aufhören, von Freiheit zu sprechen‟ von Wolf Singer [-@Singer2004]
+
+-   Aufsatz „Der entlarvte Ruck. Was sagt Kant den Gehirnforschern‟ von Otfried Höffe [-@Höffe2004]

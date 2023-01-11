@@ -54,11 +54,19 @@ Die\*der Sachverständige\*r `L. G.` soll im Rahmen der Verhandlung sowohl von e
 
 Ein Video von [Dr. Sabine Hossenfelder](https://sabinehossenfelder.com "Homepage von Dr. Sabine Hossenfelder") (theoretische Physikerin), in dem sie erklärt warum die Idee des freien Willen mit den derzeit bekannten Naturgesetzen unvereinbar ist [@Hossenfelder2020].
 
-<!-- [Video: "You don't have free will, but don't worry."](https://www.youtube.com/watch?v=zpU_e3jh_FY "Video: "You don't have free will, but don't worry."") -->
-
 ```{r echo=FALSE, out.extra='style="border: none;"', out.width='99%'}
 
 
 knitr::include_url('https://www.youtube.com/embed/zpU_e3jh_FY')
 
 ```
+
+[Video: "You don't have free will, but don't worry."](https://www.youtube.com/watch?v=zpU_e3jh_FY "Video: "You don't have free will, but don't worry."")
+
+## Weitere Quellen {#def-more}
+
+-   Aufsatz „Gründe zählen. Über einige Schwierigkeiten des Bionaturalismus‟ von Lutz Wingert [-@Lutz2004]
+
+-   Aufsatz „Verschaltungen legen uns fest: Wir sollten aufhören, von Freiheit zu sprechen‟ von Wolf Singer [-@Singer2004]
+
+-   Aufsatz „Der entlarvte Ruck. Was sagt Kant den Gehirnforschern‟ von Otfried Höffe [-@Höffe2004]

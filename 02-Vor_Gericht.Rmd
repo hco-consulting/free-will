@@ -28,17 +28,21 @@ Daher bitten die ehrenwerten Richter\*innen E. Erhard, H. C. Oueslati und N. Ste
 
 Die Staatsanwaltschaft besteht aus den Teilnehmer\*innen des Seminars mit den folgenden Initialen: `A. C.`, `A. K.`, `A. W.`, `A. B.`, `A. G.`, `D. M.`, `D. K.`, `E. L.` und `J. H.`
 
-Die Staatsanwaltschaft wird gebeten alle in dem Kapitel 3 [*Beweismittel der Staatsanwaltschaft*](#prosecution-evidence "Kapitel 3: Beweismittel der Staatsanwaltschaft") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Anklage gegen Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **schuldfähig** war.
+Die Staatsanwaltschaft wird gebeten alle in dem Kapitel 3 [*Beweismittel der Staatsanwaltschaft*](#prosecution-evidence "Kapitel 3: Beweismittel der Staatsanwaltschaft") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Anklage gegen Daniel B. vorzubereiten. Ihr obliegt es zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **schuldfähig** war.
 
 Die Teilnehmer\*in mit den Initialen `A. G.` wird im Rahmen der Verhandlung die Rolle des\*der **ersten Sachverständigen** übernehmen. In seiner\*ihrer Rolle kann und soll `A. G.` sowohl von der Staatsanwaltschaft als auch von der Verteidigung bzgl. des Themenkomplexes "Freier Wille" befragt werden.
+
+Des Weiteren bitten die ehrenwerten Richter\*innen die Staatsanwaltschaft ein **Plädoyer** (Schlusswort) vorzubereiten. Zu Dokumentationszwecken sollte besagtes Schlusswort (zumindest in Stichworten) **niedergeschrieben** werden.
 
 ## Die Verteidigung {#defence}
 
 Die Verteidigung besteht aus den Teilnehmer\*innen des Seminars mit den folgenden Initialen: `J. M.`, `K. G.`, `K. H.`, `L. H.`, `L. S.`, `L. G.`, `M. P.`, `M. L.`, `M. H.` und `V. B.`
 
-Die Verteidigung wird hingegen gebeten alle in dem Kapitel [*Beweismittel der Verteidigung*](#defence-evidence "Kapitel 4: Beweismittel der Verteidigung") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Verteidigung von Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **nicht schuldfähig** war.
+Die Verteidigung wird hingegen gebeten alle in dem Kapitel [*Beweismittel der Verteidigung*](#defence-evidence "Kapitel 4: Beweismittel der Verteidigung") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Verteidigung von Daniel B. vorzubereiten. Ihr obliegt es zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **nicht schuldfähig** war.
 
 Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die Rolle des\*der **zweiten Sachverständigen** übernehmen. In seiner\*ihrer Rolle kann und soll `L. G.` sowohl von der Verteidigung als auch von der Staatsanwaltschaft bzgl. des Themenkomplexes "Freier Wille" befragt werden.
+
+Des Weiteren bitten die ehrenwerten Richter\*innen die Verteidigung ein **Plädoyer** (Schlusswort) vorzubereiten. Zu Dokumentationszwecken sollte besagtes Schlusswort (zumindest in Stichworten) **niedergeschrieben** werden.
 
 |                        | Staatsanwaltschaft                                                                 | Verteidigung                                                                                |
 |-------------------|---------------------------|---------------------------|
@@ -52,7 +56,7 @@ Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die 
 ### Samstag, den 14.01.2023 {#timetable-sa}
 
 | Uhrzeit   | Titel des Elements                       | Beschreibung                                                                                                                              |
-|------------------|---------------------|----------------------------------|
+|------------------|---------------------|---------------------------------|
 | 16:30 Uhr | **Impulsreferat**                        | Einführung in das Thema und Erläuterung des Ablaufs der Sitzung                                                                           |
 | 16:40 Uhr | **Vorbereitung der Verhandlung**         | Sichtung und Diskussion der Materialien innerhalb der Gruppen **Staatsanwaltschaft** und **Verteidigung**.                                |
 | 17:10 Uhr | **Eröffnung der Gerichtsverhandlung**    | Verlesung der Anklageschrift durch die Richter\*innen und Beginn der Verhandlung.                                                         |
@@ -67,7 +71,7 @@ Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die 
 ### Sonntag, den 15.01.2023 {#timetable-sun}
 
 | Uhrzeit   | Titel des Elements        | Beschreibung                                                             |
-|------------------|----------------------|---------------------------------|
+|------------------|----------------------|--------------------------------|
 | 09:30 Uhr | **Urteilsverkündung**     | Verkündung und Begründung des Urteils durch die Richter\*innen.          |
 | 09:40 Uhr | **Reflexion der Sitzung** | Kritische Reflexion der Sitzung im Rahmen einer freien Gruppendiskussion |
 | 10:00 Uhr | **Ende der Verhandlung**  |                                                                          |
