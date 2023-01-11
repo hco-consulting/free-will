@@ -12,6 +12,7 @@ bookdown::gitbook:
         fontsettings:
             theme: night
             family: serif
+    split_bib: no
 bookdown::pdf_document2:
     latex_engine: xelatex
     citation_package: natbib
