@@ -56,4 +56,14 @@ Ein Video von [Dr. Sabine Hossenfelder](https://sabinehossenfelder.com "Homepage
 
 <!-- [Video: "You don't have free will, but don't worry."](https://www.youtube.com/watch?v=zpU_e3jh_FY "Video: "You don't have free will, but don't worry."") -->
 
-![](https://www.youtube.com/watch?v=zpU_e3jh_FY)
+```{r}
+#| label: embed_sh_yt_vid
+#| out.extra: 'style="border: none;"'
+#| out.width: '99%'
+#| fig.cap: "You don't have free will, but don't worry - Video von Dr. S. Hossenfelder"
+#| echo: false
+
+
+knitr::include_url('https://www.youtube.com/embed/zpU_e3jh_FY')
+
+```
