@@ -23,20 +23,19 @@ link-citations: true
 github-repo: hco-consulting/free-will
 ---
 
-# Vorwort {.unnumbered}
+# Vorwort {#preface .unnumbered}
 
-## Über dieses Webbook {.unnumbered}
+## Über dieses Webbook {#about .unnumbered}
 
-Dieses Webbook wurde im Rahmen des Seminars "Von Freiheit und Notwendigkeit" (WS 2022/2023 - Universität Konstanz) erstellt.
-Es enthält alle Informationen und Materialien, welche die Teilnehmer*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Ttel "Freier Wille als Illusion oder Notwendigkeit" benötigen. 
+Dieses Webbook wurde im Rahmen des Seminars "Von Freiheit und Notwendigkeit" (WS 2022/2023 - Universität Konstanz) erstellt. Es enthält alle Informationen und Materialien, welche die Teilnehmer\*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Ttel "Freier Wille als Illusion oder Notwendigkeit" benötigen.
 
 Die wichtigsten Ergebnisse etwaiger Diskussionen im Rahmen besagter Sitzung werden ebenfalls in diesem Webbook dokumentiert.
 
-Bei Fragen zu den Inhalten dieses Webboks bzw. der Sitzung zögern Sie bitte nicht die Autor*innen zu kontaktieren.
+Bei Fragen zu den Inhalten dieses Webboks bzw. der Sitzung zögern Sie bitte nicht die Autor\*innen zu kontaktieren.
 
-## Die Autor\*innen {.unnumbered}
+## Die Autor\*innen {#authors .unnumbered}
 
-### Emma Erhard {.unnumbered}
+### Emma Erhard {#eerhard .unnumbered}
 
 Pronomen: sie/ihr (dt.) bzw. she/her (engl.)\
 Studierender Mensch - Universität Konstanz\
@@ -44,7 +43,7 @@ Studienfach: Psychologie (M.Sc.)\
 
 Mail: [emma.erhard\@uni-konstanz.de](mailto:emma.erhard@uni-konstanz.de?subject=Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit "Mail an Emma Erhard")
 
-### Hamilkar Constantin Oueslati {.unnumbered}
+### Hamilkar Constantin Oueslati {#hcoueslati .unnumbered}
 
 Pronomen: dey/deren/denen (dt.) bzw. they/their/them (engl.)\
 Studierender Mensch - Universität Konstanz\
@@ -54,7 +53,7 @@ Mail: [hamilkar-constantin.oueslati\@uni-konstanz.de](mailto:hamilkar-constantin
 
 Web: <https://hco-consulting.eu>
 
-### Naima Steimel {.unnumbered}
+### Naima Steimel {#nsteimel .unnumbered}
 
 Pronomen: sie/ihr (dt.) bzw. she/her (engl.)\
 Studierender Mensch - Universität Konstanz\
@@ -62,15 +61,15 @@ Studienfach: Psychologie (M.Sc.)\
 
 Mail: [naima.steimel\@uni-konstanz.de](mailto:naima.steimel@uni-konstanz.de?subject=Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit "Mail an Naima Steimel")
 
-## Der Dozent des Seminars {.unnumbered}
+## Der Dozent des Seminars {#lecturer .unnumbered}
 
-### Dr. Daniel Beis {.unnumbered}
+### Dr. Daniel Beis {#dbeis .unnumbered}
 
 Pronomen: er/ihm (dt.) bzw. he/him (engl.)\
 Wissenschaftlicher Mitarbeiter am Institut für Ernährungswissenschaften\
 Justus-Liebig-Universität Gießen\
 
-Mail: [daniel.beis\@ernaehrung.uni-giessen.de](mailto:\?subject=Seminar%20Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit%20-%20Universität%20Konstanz "Mail an Dr. Daniel Beis")
+Mail: [daniel.beis\@ernaehrung.uni-giessen.de](mailto:?subject=Seminar%20Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit%20-%20Universität%20Konstanz "Mail an Dr. Daniel Beis")
 
 ```{r}
 #| label: load-packages

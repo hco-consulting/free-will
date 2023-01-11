@@ -1,4 +1,4 @@
-# Der Freie Wille Vor Gericht
+# Der Freie Wille Vor Gericht {#freewill-atcourt}
 
 Die zentralen Fragestellungen wurden definiert. Wir haben uns für ein greifbares und relevantes Konzept entschieden, anhand dessen wir diese diskutieren möchten. Wir sind uns im Klaren über die Relevanz der besagter Fragestellungen.
 
@@ -8,7 +8,7 @@ Die Antwort lautet. *Mit einem Rollenspiel!*
 
 > ***Die Richter\*innen rufen die Anwesenden zur Ordnung. Die Verhandlung beginnt!***
 
-## Die Ermordung einer Ikone
+## Die Ermordung einer Ikone {#deathofanicon}
 
 Im Rahmen einer **fiktiven Gerichtsverhandlung** soll entschieden werden, ob der **Angeklagte Daniel B.** (unser Dozent) des **Mordes** an seinem Kollegen **Sigmund F.** schuldig ist.
 
@@ -16,7 +16,7 @@ Im Rahmen einer **fiktiven Gerichtsverhandlung** soll entschieden werden, ob der
 
 > *Am Morgen des 16.10.2022 nutzte Daniel B. einen Vortex-Manipulator, um zurück in das Jahr 1907 zu reisen. Am späten Abend des 03.11.1907 verschaffte sich Daniel B. sodann Zugang zu der Wohnung des Opfers in der Berggasse 19 in Wien. Laut der Aussage des Zeugen Carl Gustav J. "stürmte" Daniel B. in das Studierzimmer des Opfers und unterbrach unter Verwendung "äußerst grotesker Flüche" das erste Treffen zwischen dem Opfer und dem Zeugen. Als sich das Opfer auch nach mehrmaligen Aufforderungen von Daniel B. weigerte seine "irrsinnige" Sexualtheorie aufzugeben, begann Daniel B. "wie besessen" mit einem schweizer Taschenmesser auf das Opfer Sigmund F. einzustechen. Wenig später erlag Sigmund F. seinen Verletzungen.*
 
-## Ein Schuldloser Mord?
+## Ein Schuldloser Mord? {#blameless}
 
 Ausgehend von den dem Gericht vorliegenden Beweismitteln und der Zeugenaussage von Car Gustav J. scheint es außer Frage zu stehen, dass Daniel B. Sigmund F. ermordet hat.
 
@@ -24,19 +24,19 @@ Dies bedeutet jedoch nicht, dass Daniel B. des Mordes an Sigmund F. auch schuldi
 
 Daher bitten die ehrenwerten Richter\*innen E. Erhard, H. C. Oueslati und N. Steimel die Teilnehmer\*innen dieses Seminars sich in zwei Gruppen (Staatsanwaltschaft und Verteidigung) aufzuteilen und die Anklage gegen bzw. die Verteidigung von Daniel B. vorzubereiten.
 
-## Die Staatsanwaltschaft
+## Die Staatsanwaltschaft {#prosecution}
 
 Die Staatsanwaltschaft besteht aus den Teilnehmer\*innen des Seminars mit den folgenden Initialen: `A. C.`, `A. K.`, `A. W.`, `A. B.`, `A. G.`, `D. M.`, `D. K.`, `E. L.` und `J. H.`
 
-Die Staatsanwaltschaft wird gebeten alle in dem Kapitel ... zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Anklage gegen Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **schuldfähig** war.
+Die Staatsanwaltschaft wird gebeten alle in dem Kapitel 3 [*Beweismittel der Staatsanwaltschaft*](#prosecution-evidence "Kapitel 3: Beweismittel der Staatsanwaltschaft") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Anklage gegen Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **schuldfähig** war.
 
 Die Teilnehmer\*in mit den Initialen `A. G.` wird im Rahmen der Verhandlung die Rolle des\*der **ersten Sachverständigen** übernehmen. In seiner\*ihrer Rolle kann und soll `A. G.` sowohl von der Staatsanwaltschaft als auch von der Verteidigung bzgl. des Themenkomplexes "Freier Wille" befragt werden.
 
-## Die Verteidigung
+## Die Verteidigung {#defence}
 
 Die Verteidigung besteht aus den Teilnehmer\*innen des Seminars mit den folgenden Initialen: `J. M.`, `K. G.`, `K. H.`, `L. H.`, `L. S.`, `L. G.`, `M. P.`, `M. L.`, `M. H.` und `V. B.`
 
-Die Verteidigung wird hingegen gebeten alle in dem Kapitel ... zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Verteidigung von Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **nicht schuldfähig** war.
+Die Verteidigung wird hingegen gebeten alle in dem Kapitel [*Beweismittel der Verteidigung*](#defence-evidence "Kapitel 4: Beweismittel der Verteidigung") zur Verfügung stehenden Materialien und Ressourcen zu nutzen, um die Verteidigung von Daniel B. vorzubereiten. Ihr obliegt es zu zweifelsfrei darzulegen, dass Daniel B. zum Zeitpunkt des Tat **nicht schuldfähig** war.
 
 Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die Rolle des\*der **zweiten Sachverständigen** übernehmen. In seiner\*ihrer Rolle kann und soll `L. G.` sowohl von der Verteidigung als auch von der Staatsanwaltschaft bzgl. des Themenkomplexes "Freier Wille" befragt werden.
 
@@ -45,6 +45,31 @@ Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die 
 | **Mitglieder\*innen**  | `A. C.`, `A. K.`, `A. W.`, `A. B.`, `A. G.`, `D. M.`, `D. K.`, `E. L.` und `J. H.` | `J. M.`, `K. G.`, `K. H.`, `L. H.`, `L. S.`, `L. G.`, `M. P.`, `M. L.`, `M. H.` und `V. B.` |
 | **Sachverständige\*r** | `A. G.`                                                                            | `L. G.`                                                                                     |
 
-:  Staatsanwaltschaft und Verteidigung im Überblick
+: Staatsanwaltschaft und Verteidigung im Überblick
 
-## Der Ablauf der Verhandlung
+## Der Ablauf der Verhandlung {#timetable}
+
+### Samstag, den 14.01.2023 {#timetable-sa}
+
+| Uhrzeit   | Titel des Elements                       | Beschreibung                                                                                                                              |
+|------------------|---------------------|----------------------------------|
+| 16:30 Uhr | **Impulsreferat**                        | Einführung in das Thema und Erläuterung des Ablaufs der Sitzung                                                                           |
+| 16:40 Uhr | **Vorbereitung der Verhandlung**         | Sichtung und Diskussion der Materialien innerhalb der Gruppen **Staatsanwaltschaft** und **Verteidigung**.                                |
+| 17:10 Uhr | **Eröffnung der Gerichtsverhandlung**    | Verlesung der Anklageschrift durch die Richter\*innen und Beginn der Verhandlung.                                                         |
+| 17:15 Uhr | **Beweisanträge der Staatsanwaltschaft** | Darlegung der Argumente bzw. Beweismittel **für** die Schuldfähigkeit von Daniel B. (inkl. der Befragung des Sachverständigen `A. G.`).   |
+| 17:30 Uhr | **Beweisanträge der Verteidigung**       | Darlegung der Argumente bzw. Beweismittel **gegen** die Schuldfähigkeit von Daniel B. (inkl. der Befragung des Sachverständigen `L. G.`). |
+| 17:45 Uhr | **Plädoyer der Staatsanwaltschaft**      | Schlusswort der Staatsanwaltschaft.                                                                                                       |
+| 17:50 Uhr | **Plädoyer der Verteidigung**            | Schlusswort der Verteidigung.                                                                                                             |
+| 17:55 Uhr | **Ende des ersten Verhandlungstages**    |                                                                                                                                           |
+
+: Ablauf der Verhandlung am 14.01.2023
+
+### Sonntag, den 15.01.2023 {#timetable-sun}
+
+| Uhrzeit   | Titel des Elements        | Beschreibung                                                             |
+|------------------|----------------------|---------------------------------|
+| 09:30 Uhr | **Urteilsverkündung**     | Verkündung und Begründung des Urteils durch die Richter\*innen.          |
+| 09:40 Uhr | **Reflexion der Sitzung** | Kritische Reflexion der Sitzung im Rahmen einer freien Gruppendiskussion |
+| 10:00 Uhr | **Ende der Verhandlung**  |                                                                          |
+
+: Ablauf der Verhandlung am 15.01.2023

@@ -1,6 +1,6 @@
-# Einführung
+# Einführung {#intro}
 
-## Freier Wille? - Ja, Nein, Vielleicht, Egal
+## Freier Wille? - Ja, Nein, Vielleicht, Egal {#freewill-ynmi}
 
 Im Rahmen dieser Seminarsitzung möchten wir uns mit euch auf kreative Art und Weise mit folgende Fragestellungen auseinandersetzen:
 
@@ -12,7 +12,7 @@ Im Rahmen dieser Seminarsitzung möchten wir uns mit euch auf kreative Art und W
 
 Die kritische Betrachtung solch abstrakter Fragestellungen ist leider oft alles andere als leicht. Aus diesem Grund wollen wir mit euch die besagten Fragestellungen anhand eines deutlich greifbareren Konzeptes kritisch diskutieren: der **Schuldfähigkeit**.
 
-## Freier Wille und Schuldfähigkeit
+## Freier Wille und Schuldfähigkeit {#freewill-blame}
 
 Bevor wir uns an der Beantwortung der obigen Fragen versuchen, lasst uns zuerst eine Antwort auf **die Frage** finden, **die immer die erste sein sollte**:
 
@@ -36,9 +36,6 @@ Zur Beantwortung der **ersten Frage** lasst uns einige **potentielle** Implikati
 
     -   Personen sind im rechtlichen Sinne generell als **nicht schuldfähi**g zu betrachten.
 
-```{=html}
-<!-- -->
-```
 -   Personen sind **nicht verantwortlich** für das Verhalten, welches sie zeigen bzw. nicht zeigen.
 
     -   Personen **tragen keine Schuld** für ihre kriminellen Handlungen bzw. für das kriminelle Unterlassen bestimmter Handlungen.
