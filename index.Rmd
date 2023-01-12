@@ -27,7 +27,7 @@ github-repo: hco-consulting/free-will
 
 ## Über dieses Webbook {#about .unnumbered}
 
-Dieses Webbook wurde im Rahmen des Seminars "Von Freiheit und Notwendigkeit" (WS 2022/2023 - Universität Konstanz) erstellt. Es enthält alle Informationen und Materialien, welche die Teilnehmer\*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Ttel "Freier Wille als Illusion oder Notwendigkeit" benötigen.
+Dieses Webbook wurde im Rahmen des Seminars "Von Freiheit und Notwendigkeit" (WS 2022/2023 - Universität Konstanz) erstellt. Es enthält alle Informationen und Materialien, welche die Teilnehmer\*innen des Seminars zur Mitarbeit in der von uns gestalteten Sitzung mit dem Titel "Freier Wille als Illusion oder Notwendigkeit" benötigen.
 
 Die wichtigsten Ergebnisse etwaiger Diskussionen im Rahmen besagter Sitzung werden ebenfalls in diesem Webbook dokumentiert.
 
@@ -71,10 +71,15 @@ Justus-Liebig-Universität Gießen\
 
 Mail: [daniel.beis\@ernaehrung.uni-giessen.de](mailto:?subject=Seminar%20Freier%20Wille%20als%20Illusion%20oder%20Notwendigkeit%20-%20Universität%20Konstanz "Mail an Dr. Daniel Beis")
 
-```{r}
-#| label: load-packages
-#| include: False
+```{r load-packages, eval=FALSE, include=FALSE}
 
 library(bookdown)
+
+```
+
+```{r render-book, eval=FALSE, include=FALSE}
+
+render_book("index.Rmd", "bookdown::pdf_document2") #before rendering -> hide references md-file
+render_book("index.Rmd")
 
 ```
