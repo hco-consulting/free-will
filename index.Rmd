@@ -79,7 +79,9 @@ library(bookdown)
 
 ```{r render-book, eval=FALSE, include=FALSE}
 
-render_book("index.Rmd", "bookdown::pdf_document2") #before rendering -> hide references md-file
+#before rendering -> hide references md-file
+render_book("index.Rmd", "bookdown::pdf_document2") 
+
 render_book("index.Rmd")
 
 ```
