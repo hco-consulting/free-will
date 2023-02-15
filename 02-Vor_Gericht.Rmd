@@ -53,7 +53,7 @@ Die Teilnehmer\*in mit den Initialen `L. G.` wird im Rahmen der Verhandlung die 
 Der\*die Teilnehmer\*in `L. G.` wird gebeten zur Vorbereitung seiner\*ihrer Aussage als **Benjamin Libet** die Materialien in Kapitel 4.11 [*Sachverständiger der Verteidigung*](#def-expert "Kapitel 4.11: Sachverständiger der Verteidigung") zu nutzen.
 
 |                        | Staatsanwaltschaft                                                                 | Verteidigung                                                                                |
-|:------------------|:--------------------------|:--------------------------|
+|:-----------------------|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
 | **Mitglieder\*innen**  | `A. C.`, `A. K.`, `A. W.`, `A. B.`, `A. G.`, `D. M.`, `D. K.`, `E. L.` und `J. H.` | `J. M.`, `K. G.`, `K. H.`, `L. H.`, `L. S.`, `L. G.`, `M. P.`, `M. L.`, `M. H.` und `V. B.` |
 | **Sachverständige\*r** | `A. G.`                                                                            | `L. G.`                                                                                     |
 
@@ -64,7 +64,7 @@ Der\*die Teilnehmer\*in `L. G.` wird gebeten zur Vorbereitung seiner\*ihrer Auss
 ### Samstag, den 14.01.2023 {#timetable-sa}
 
 | Uhrzeit   | Titel des Elements                       | Beschreibung                                                                                                                              |
-|:-----------------|:--------------------|:--------------------------------|
+|:----------|:-----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
 | 16:30 Uhr | **Impulsreferat**                        | Einführung in das Thema und Erläuterung des Ablaufs der Sitzung                                                                           |
 | 16:40 Uhr | **Vorbereitung der Verhandlung**         | Sichtung und Diskussion der Materialien innerhalb der Gruppen **Staatsanwaltschaft** und **Verteidigung**.                                |
 | 17:25 Uhr | **Eröffnung der Gerichtsverhandlung**    | Verlesung der Anklageschrift durch die Richter\*innen und Beginn der Verhandlung.                                                         |
@@ -77,7 +77,7 @@ Der\*die Teilnehmer\*in `L. G.` wird gebeten zur Vorbereitung seiner\*ihrer Auss
 ### Sonntag, den 15.01.2023 {#timetable-sun}
 
 | Uhrzeit   | Titel des Elements                  | Beschreibung                                                             |
-|:-----------------|:---------------------|:-------------------------------|
+|:----------|:------------------------------------|:-------------------------------------------------------------------------|
 | 9:30 Uhr  | **Plädoyer der Staatsanwaltschaft** | Schlusswort der Staatsanwaltschaft.                                      |
 | 9:32 Uhr  | **Plädoyer der Verteidigung**       | Schlusswort der Verteidigung.                                            |
 | 09:35 Uhr | **Urteilsverkündung**               | Verkündung und Begründung des Urteils durch die Richter\*innen.          |
