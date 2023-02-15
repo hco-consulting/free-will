@@ -1,6 +1,6 @@
 # Ergebnisse der Seminarsitzung {#results}
 
-## **Beweisanträge der Staatsanwaltschaft** {#pr-ev}
+## Beweisanträge der Staatsanwaltschaft {#pr-ev}
 
 > "Die Voraussetzungen, die notwendig sind um einen Angeklagten des Mordes schuldig zu sprechen, waren bei der Tat vollständig erfüllt. Zum einen lag der Aspekt der Heimtücke vor. Sigmund F. war zum Zeitpunkt der Tat in einer Besprechung mit Carl-Gustaf J. und dementsprechend wehrlos. Zum anderen zeugte das Tötungsdelikt von besonderer Grausamkeit."
 
@@ -38,7 +38,7 @@
 >
 > -   "Es gibt auch andere Studien, die zeigen, dass es zwar keinen freien Willen gibt, aber ein „freies Veto" zwischen Bereitschaftspotential und Handlung: Free Won't (Mord abbrechen/nicht begehen)."
 
-## **Beweisanträge der** Verteidigung {#def-ev}
+## Beweisanträge der Verteidigung {#def-ev}
 
 > "*In dubio pro reo* - Im Zweifel für den Angeklagten. Er ist unschuldig bis zum Beweis, dass er einen freien Willen hatte. Man kann freien Willen nicht sehen, anfassen, irgendwie erfahren und daher auch nicht nachweisen. Es gibt keine naturwissenschaftliche, philosophische, etc. stichhaltigen Belege für die Existenz des freien Willens. Wir wollen es nur nicht wahrhaben, dass wir keinen freien Willen haben, weil sich das besser anfühlt, wenn ich jemanden verantwortlich machen kann."
 
